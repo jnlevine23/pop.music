@@ -7,3 +7,5 @@ _View full presentation [here](https://github.com/jnlevine23/pop.music/blob/mast
 
 Graph visualizing ten distinct themes commonly found in popular music and how they vary over time:  
 _View Interactive Results [here](https://plot.ly/~jnlevine23/3.embed)._
+
+If notebook is unable to load, view at [nbviewer](https://nbviewer.jupyter.org/github/jnlevine23/pop.music/blob/master/Analysis_Modeling/lyrics_modeling.ipynb).
